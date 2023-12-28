@@ -15,13 +15,15 @@ import './App.css';
 //import Todo from './components/Todo';
 //import InLineComponent from './components/InLineComponent';
 //import StyleComponent from './components/StyleComponent';
-import ModuleComponent from './components/ModuleComponent';
+//import ModuleComponent from './components/ModuleComponent';
+//import FragmentComponent from './components/FragmentComponent';
+import Table from './components/Table';
 
 function App() {
 
   return (
     <div className="App">
-      <ModuleComponent/>
+      <Table/>
        
       {/* <ClassEvent/>
       <Resume name='John'></Resume>
