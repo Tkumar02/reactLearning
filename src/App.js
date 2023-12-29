@@ -17,13 +17,15 @@ import './App.css';
 //import StyleComponent from './components/StyleComponent';
 //import ModuleComponent from './components/ModuleComponent';
 //import FragmentComponent from './components/FragmentComponent';
-import Table from './components/Table';
+//import Table from './components/Table';
+//import Parent from './components/Parent';
+import Modal from './components/Modal';
 
 function App() {
 
   return (
     <div className="App">
-      <Table/>
+      <Modal/>
        
       {/* <ClassEvent/>
       <Resume name='John'></Resume>
